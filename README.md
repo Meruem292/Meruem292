@@ -1,16 +1,52 @@
-## Hi there 👋
+**👋 Hi, I'm Mherwen Wiel Romero<br><br>AI Automation & Firebase Developer | Full-Stack Web Developer<br><br>
+I’m a **BS Information Systems graduate based in Dasmariñas, Cavite, Philippines**, focused on building practical software, AI-powered workflows, and web applications that solve real business problems.<br><br>My strongest area is **AI automation**, especially with **Google AI Studio, Firebase, and modern AI-assisted development workflows**. I’ve been working with these tools for around **3 years**, exploring ways to build faster, smarter, and more cost-efficient solutions.<br><br>On the development side, PHP** is one of my strongest programming languages, with experience in **C++, JavaScript, TypeScript, HTML, CSS, C#, ASP.NET, MVC, OOP, SQL, and database systems**.<br>I also work with:<br><br>**🤖 AI & Automation**<br>Google AI Studio · Firebase Studio · n8n · MCP · PyTorch · TensorFlow · MediaPipe · SAM · Kaggle<br>🔥 **Backend & Databases****<br>Firebase · Supabase · PostgreSQL · MySQL · NeonDB · Stored Procedures<br>**🌐 Web Development**<br>PHP · JavaScript · TypeScript · React · Next.js · HTML · CSS · C# · ASP.NET · MVC<br>**🛠️ Tools & Platforms**<br>GitHub · Vercel · Firebase · FlySpeed · AI-assisted development workflows<br><br> **🚀 Things I’ve Built**<br><br>I’m especially proud of working on:<br>* AI & Computer Vision applications<br>* Ordering systems and POS platforms<br>* Business analytics systems currently in use<br>* HRIS and HR-related web applications<br>* Consulting and business web platforms<br>* Automation workflows designed to reduce repetitive work<br><br>💡 **How I Build**<br><br>I like solving problems in the **most practical and efficient way possible**.<br>That means looking for better alternatives, reducing unnecessary complexity and cost, and using the right tools to get the job done—not simply writing more code.<br>> **Build smarter. Automate what you can. Spend less.**<br>I’m currently interested in **remote opportunities focused on AI automation, Firebase, AI-assisted development, and modern web systems**.<br>📍 Dasmariñas, Cavite, Philippines<br><br>🎯 Open to Remote Opportunities<br>
 
-<!--
-**Meruem292/Meruem292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Meruem292&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://streak-stats.demolab.com/?user=Meruem292&theme=dark&hide_border=false)<br/>
+<br>
+**💻 Tech Stack:**<br>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
 
-Here are some ideas to get you started:
+## 🤖 Generative AI tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img 
+  src="https://cdn.shopaccino.com/igmguru/images/google-ai-studio-3838010119515513-12567582109840713.webp" 
+  alt="Google AI Studio" 
+  width="150"
+/>
+<img 
+  src="https://cdn.prod.website-files.com/670cfc8b8f0c2eaaa871de4e/67f90bf023a5315bc2d1c179_Firebase%20Studio%20-%20Hero%20Image.jpg" 
+  alt="Firebase" 
+  width="150"
+/>
+<img 
+  src="https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/newsdrum-in/media/media_files/2025/06/10/AVuhuQEmP8GPjzf4KcQL.jpg" 
+  alt="Chatgpt" 
+  width="150"
+/>
+<img 
+  src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Claude.jpg" 
+  alt="Claude" 
+  width="150"
+/>
+<img 
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9PS1iwFtj6hwN1Y1UhRbdk8mfKvFmxmwe6tz7O4jNxwCi8RSNcmrzuxWx&s=10" 
+  alt="Antigravity" 
+  width="150"
+/>
+<img 
+  src="https://ai.nd.edu/assets/603354/1600x840/deepseek.jpg" 
+  alt="Deepseek" 
+  width="150"
+/>
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/4uafnz3P) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shemz.rhiew) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mhrwnwiel) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@shemz292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:newroskoto@gmail.com) 
+
+
+
+---
+[![](https://komarev.com/ghpvc/?username=Meruem292&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
